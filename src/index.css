@@ -2,6 +2,7 @@
   line-height: 1.5;
   font-weight: 400;
   font-size: 14px;
+  box-sizing: border-box;
   --Green: hsl(75, 94%, 57%);
   --Grey: hsl(0, 0%, 20%);
   --White: hsl(0, 0%, 100%);
